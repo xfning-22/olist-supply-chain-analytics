@@ -23,7 +23,7 @@ An independent portfolio project examining sales concentration, seller activity,
 - Merchandise value by **seller state**
 - Monthly item-sales trend using purchase month
 
-> **Report file:** The native `.pbix` file is saved locally and must be added to this repository separately. Screenshots of both report pages can also be uploaded to `screenshots/`.
+> **Power BI report:** [Download commercial.pbix](commercial.pbix) (the native two-page Power BI Desktop report). Screenshots of both report pages can also be added to `screenshots/`.
 
 ## Selected results
 
@@ -64,7 +64,7 @@ Representative analysis includes `INNER JOIN`, `COUNT(DISTINCT)`, `GROUP BY`, `H
 |---|---|
 | [sql/analysis.sql](sql/analysis.sql) | Representative MySQL queries and delivery VIEW |
 | [powerbi/measures.md](powerbi/measures.md) | DAX measures, date columns, and model setup |
-| `Olist_Supply_Chain_Analytics.pbix` | Local Power BI report; **upload pending** |
+| [commercial.pbix](commercial.pbix) | Native Power BI Desktop report; **uploaded** |
 | `screenshots/` | Optional final dashboard screenshots; **upload pending** |
 
 ## Reproduction steps
