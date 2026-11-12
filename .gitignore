@@ -1,0 +1,7 @@
+# Do not commit raw datasets, credentials, or local caches
+*.csv
+*.zip
+*.env
+.env
+__pycache__/
+*.tmp
